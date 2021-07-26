@@ -11,9 +11,9 @@ Visualize basic options contract parameters
 so...
 
 option -> chain -> plot -> app
----------------------------------------------------------------------------------------------------
-The app is hosted at https://options3d.herokuapp.com/ on a free account
 
-To start the webapp locally, clone the repo and run app.py
+## Notes
 
-Note: this hasn't been extensively tested so there is a good chance bugs exist.
+* The app is hosted at https://options3d.herokuapp.com/ on a free account
+* To start the webapp locally, clone the repo and run app.py
+* This hasn't been extensively tested so there is a good chance bugs exist
