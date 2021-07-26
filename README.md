@@ -17,3 +17,5 @@ option -> chain -> plot -> app
 * The app is hosted at https://options3d.herokuapp.com/ on a free account
 * To start the webapp locally, clone the repo and run app.py
 * This hasn't been extensively tested so there is a good chance bugs exist
+* Code formatter extension in VS code screwed up some of the formatting (forced lines to be 80 chars instead of the 120 I had in PyCharm)
+* Not all docs/comments are up to date
