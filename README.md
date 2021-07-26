@@ -11,3 +11,5 @@ Visualize basic options contract parameters
 so...
 
 option -> chain -> plot -> app
+
+To start the webapp locally, clone the repo and run app.py
